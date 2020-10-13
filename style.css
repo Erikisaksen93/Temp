@@ -1,0 +1,40 @@
+* {
+    font-family: 'Comfortaa', cursive;
+    background-color: #ecf2f8;
+}
+
+main {
+    display: grid;
+}
+
+.header {
+    text-align: center;  
+}
+
+img {
+    opacity: 0.4;
+  }
+
+  img:hover {
+    opacity: 1.0;
+  }
+
+input {
+    font-size: 25px;
+    font-style: bolder;
+    width: 200px;
+    height: 30px;
+    margin: 5px;
+    padding: 5px;
+}
+
+
+.output {
+    border: solid black 2px;
+    width: 200px;
+    height: 50px;
+    margin: 5px;
+    padding: 5px;
+    font-size: 26px;
+    font-style: bolder;
+}
